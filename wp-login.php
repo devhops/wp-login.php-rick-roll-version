@@ -11,7 +11,7 @@
         // if you want. Otherwise... 
 
         // RICK ROLL!!!
-        header('location: http://www.youtube.com/v=dQw4w9WgXcQ');
+        header('location: http://www.youtube.com/v/dQw4w9WgXcQ');
 
     }
 
