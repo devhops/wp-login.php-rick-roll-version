@@ -1,6 +1,6 @@
 # wp-login.php Rick Roll!
 
-Say you have a static site. Sometimes people will still check if you're running Wordpress.
+Say you have a static site. Sometimes people will still check to see if you're running Wordpress.
 
 You can see if this is happening by checking your logs for 404 errors to /wp-login.php
 
