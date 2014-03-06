@@ -8,7 +8,11 @@ This script will send anyone trying to login to your Wordpress install to the in
 
 You could also do some stuff like saving the credentials into a database...
 
-## Requirements
+### Requirements
 
 - PHP
 - A sense of humour
+
+### Installation
+
+Drop the rickroll folder and wp-login.php into the root of your site, or anywhere you think people are checking for wp-login.php.
